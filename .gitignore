@@ -1,2 +1,19 @@
+# don't want to upload yet
+client.so
+server.so
+
+# files generated at runtime
 *.ain
 *.cache
+
+# idk if u need this
+demoheader.tmp
+GameState.txt
+glshaders.cfg
+stats.txt
+config.cfg
+voice_ban.dt
+server_blacklist.txt
+
+# probably not needed
+videoconfig_linux.cfg
