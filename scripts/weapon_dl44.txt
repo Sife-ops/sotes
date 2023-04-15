@@ -12,13 +12,13 @@ WeaponData
     "bucket_360"            "1"
     "bucket_position_360"   "0"
 
-    "clip_size"             "30"
+    "clip_size"             "-1"
     "default_clip"          "300"
 
     "clip2_size"            "-1"
     "default_clip2"         "-1"
 
-    "primary_ammo"          "GaussEnergy"
+    "primary_ammo"          "Pistol"
     "secondary_ammo"        "None"
 
     "weight"                "3"
